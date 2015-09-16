@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:26.722745
+#+DATE: 2015-08-30 20:35:27.845694
 #+TITLE: 金剛上味陀羅尼經
 #+PROPERTY: CBETA_ID T21n1344
 #+PROPERTY: ID KR6j0574
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1344
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0574_T_000-0850a>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0574_T_001-0850a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1344[No.1345]¶
-
- 金剛上味陀羅尼經¶
+No. 1344 [No. 1345]¶
+金剛上味陀羅尼經¶
 ¶
 元魏天竺三藏佛陀扇多譯¶
 
