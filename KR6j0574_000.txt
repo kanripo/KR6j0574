@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛上味陀羅尼經
+#+DATE: 2015-08-30 20:35:26.958763
+#+PROPERTY: JUAN 0
